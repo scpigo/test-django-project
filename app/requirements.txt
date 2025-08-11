@@ -1,0 +1,6 @@
+Django==5.2.5
+gunicorn
+mysqlclient
+python-dotenv
+djangorestframework
+djangorestframework-simplejwt
